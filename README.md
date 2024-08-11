@@ -1,5 +1,7 @@
 # todo-list
 
+A To-do list created with Vue.JS
+
 ## Project setup
 ```
 npm install
